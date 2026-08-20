@@ -2,6 +2,10 @@
 
 A responsive React business-intelligence dashboard for analysing urban flood risk, emergency response performance, infrastructure impact, and population exposure. All data in the shipped build is clearly labelled **Synthetic Demo Data**.
 
+## Live demo
+
+After the GitHub Pages workflow completes, the site is available at [https://ayyagariumasree-art.github.io/urban-flood-risk-dashboard/](https://ayyagariumasree-art.github.io/urban-flood-risk-dashboard/).
+
 ## Features
 
 - Role-selectable demo login (Administrator / Analyst)
